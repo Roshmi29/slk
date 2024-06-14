@@ -1,0 +1,4 @@
+what is java?
+ans- java is an object oriented programming language designed for implementations.
+what is polymorphism?
+ans-polymorphism in Java allows objects to be treated as instances of their parent class rather than their actual class, enabling one interface to be used for a general class of actions.
