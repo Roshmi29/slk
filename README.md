@@ -1,4 +1,6 @@
 # my first repository
- author-diya
+hum hai pradhan mantri
+modivation
 <br>
  ;) 
+
